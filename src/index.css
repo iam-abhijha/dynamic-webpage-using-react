@@ -1,0 +1,25 @@
+*{
+    background-color: rgb(167, 243, 243);
+    box-sizing: border-box;
+
+}
+div{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+}
+h1{
+    padding: 20px;
+    border-radius: 20px;
+    background-color: aliceblue;
+    color: rgb(183, 0, 255);
+
+}
+span{
+    background-color: aliceblue;
+}
+
